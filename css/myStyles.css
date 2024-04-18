@@ -1,0 +1,22 @@
+h1{
+    color:whitesmoke;
+}
+
+h2{
+    text-align: center;
+}
+
+h10{
+    font-weight:bold !important;
+    font-style: italic !important;
+    text-decoration: underline !important;
+}
+
+h11{
+    font-weight: bold;
+}
+
+h12{
+    font-style: italic;
+}
+
