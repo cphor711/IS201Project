@@ -7,9 +7,9 @@ h2{
 }
 
 h10{
-    font-weight:bold;
-    font-style: italic;
-    text-decoration: underline;
+    font-weight:bold !important;
+    font-style: italic !important;
+    text-decoration: underline !important;
 }
 
 h11{
